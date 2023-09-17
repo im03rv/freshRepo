@@ -40,7 +40,7 @@ public class SpringBoot4Application {
 		
 		}
 		
-		System.out.println("you Loose!!! and \n the rondom number is " + num);
+		System.out.println("you Loose!!! and \n the rondom number is: " + num);
 		
 		SpringApplication.run(SpringBoot4Application.class, args);
 		
